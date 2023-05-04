@@ -1,1 +1,11 @@
-@import url('../global.css');
+@import url("../global.css");
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  color: green;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+}
